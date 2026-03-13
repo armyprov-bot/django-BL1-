@@ -1,2 +1,1 @@
-# django-BL1-
-P3
+# Blogicum
